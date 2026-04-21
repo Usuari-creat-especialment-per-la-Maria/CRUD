@@ -1,0 +1,46 @@
+body {
+    background-color: #f5f5f5;
+}
+
+/* Card */
+.card {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+/* Inputs */
+.card input,
+.card select {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+/* Botó (verd complementari) */
+#botonGuardar {
+    width: 100%;
+    background-color: #198754;
+    border: none;
+    color: white;
+}
+
+#botonGuardar:hover {
+    background-color: #157347;
+}
+
+/* Títol */
+h1 {
+    color: #081100;
+}
+
+/* Taula */
+table {
+    background-color: white;
+}
+
+/* Header rosa suau */
+.table-dark tr th {
+    background-color: #f8c8dc;
+    color: #333;
+}
